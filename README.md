@@ -12,8 +12,7 @@ I'm Matheus, a web full stack developer from Brazil with passion in programing!
 
 ## 🛠 Languages and tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,vite,postgres,mongo,prisma,git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,express,react,vite,postgres,mongo,prisma,git,postman)](https://skillicons.dev)
 
 ## 🔗 Connect to me
 
