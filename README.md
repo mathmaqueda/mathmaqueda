@@ -9,7 +9,7 @@
   Sou um desenvolvedor web full-stack, apaixonado por tecnologia e sempre em busca de novos desafios.
 
   - **Formação**: Tecnólogo em **Análise e Desenvolvimento de Sistemas** pela Fatec Ourinhos.
-  - **Valores profissionais**: Comprometimento, qualidade e aprendizado contínuo.
+  - **Valores profissionais**: Comprometimento, qualidade, planejamento estratégico e aprendizado contínuo.
 
   ### Entre em contato:
 
